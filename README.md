@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run build`
+### `npm run lint`
 
 Run Lint which will display in the terminal whether there are errors, bugs, stylistic errors, and suspicious constructs
 
